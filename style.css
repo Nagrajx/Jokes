@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(12, 4, 46);
+}
+#joke{
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
